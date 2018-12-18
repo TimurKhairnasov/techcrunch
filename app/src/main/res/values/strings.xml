@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="drawer_navigation">Drawer Nav</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="bottom_navigation">Bottom Nav</string>
+    <string name="home">Home</string>
+    <string name="deeplink">Deep link</string>
+    <string name="system_settings">System App Info</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="hello_settings_fragment">Settings fragment</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="shopping_fragment_text">Shopping fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rus">Russian Federation</string>
+    <string name="us">United States</string>
+    <string name="gb">Great Britain</string>
+    <string name="select_county">Select Country</string>
+    <string name="saved_news">Saved News</string>
+    <string name="some_string">#FAFAFA</string>
+</resources>
